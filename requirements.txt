@@ -1,0 +1,4 @@
+python-pptx
+python-dotenv
+huggingface_hub
+requests
